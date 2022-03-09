@@ -1,10 +1,11 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <AssemblyName>YaskawaTestExtension</AssemblyName>
-    <OutputType>Exe</OutputType>
+    <!--OutputType>Exe</OutputType-->
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <IntermediateOutputPath>$(MSBuildProjectDirectory)</IntermediateOutputPath>
+    <RuntimeIdentifier>linux-arm</RuntimeIdentifier>
   </PropertyGroup>
   <ItemGroup>  
     <Compile Include="*.cs" />  

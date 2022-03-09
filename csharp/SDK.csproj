@@ -4,7 +4,7 @@
     <LangVersion>7.2</LangVersion>
     <OutputType>library</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <AspNetCoreModuleHostingModule>InProcess</AspNetCoreModuleHostingModule>
+    <!--AspNetCoreModuleHostingModule>InProcess</AspNetCoreModuleHostingModule-->
     <RuntimeIdentifiers>linux-arm</RuntimeIdentifiers>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <IntermediateOutputPath>$(MSBuildProjectDirectory)</IntermediateOutputPath>
