@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="facc75a2-d258-4cbf-8d6f-9618104ea97c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/csharp/YaskawaExtension.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestExtension/csharp/bin/Debug/netcoreapp2.2/YaskawaExtension.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestExtension/csharp/bin/Debug/netcoreapp2.2/YaskawaExtension.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/Yaskawa/Ext/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/csharp/Yaskawa/Ext/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp/Yaskawa/Ext/Pendant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/csharp/Yaskawa/Ext/Pendant.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extension.thrift" beforeDir="false" afterPath="$PROJECT_DIR$/extension.thrift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestExtension/csharp/TestExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csharp/Yaskawa/Ext/Robot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csharp/Yaskawa/Ext/Extension.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csharp/Yaskawa/Ext/Controller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csharp/Yaskawa/Ext/Version.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csharp/Yaskawa/Ext/Pendant.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DemoExtension21-csharp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25uxQE9tPzCsAIQD7Ci76MhlZxs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DemoExtension21-csharp/DemoExtension21-csharp.csproj" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="facc75a2-d258-4cbf-8d6f-9618104ea97c" name="Changes" comment="" />
+      <created>1646390755193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646390755193</updated>
+      <workItem from="1646390761962" duration="510000" />
+      <workItem from="1646395503380" duration="1453000" />
+      <workItem from="1646397499002" duration="920000" />
+      <workItem from="1646731914077" duration="673000" />
+    </task>
+    <task id="LOCAL-00001" summary="removed obsolete code and fixed csharp sdk generator">
+      <created>1646391047954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646391047954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated README.md to reflect setup of a csharp project structure.">
+      <created>1646397446761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646397446761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="removed obsolete code and fixed csharp sdk generator" />
+    <MESSAGE value="updated README.md to reflect setup of a csharp project structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md to reflect setup of a csharp project structure." />
+  </component>
+</project>

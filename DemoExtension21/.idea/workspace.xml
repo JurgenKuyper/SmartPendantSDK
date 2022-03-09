@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f2fd4f8-fde5-4430-b208-e25e8e98bf6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/.idea/.idea.DemoExtension21-csharp.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/.idea/.idea.DemoExtension21-csharp.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/.idea/.idea.DemoExtension21-csharp.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/.idea/.idea.DemoExtension21-csharp.dir/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/.idea/.idea.DemoExtension21-csharp.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/.idea/.idea.DemoExtension21-csharp.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/DemoExtension21-csharp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/netcoreapp2.2/DemoExtension21-csharp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/netcoreapp2.2/DemoExtension21-csharp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/netcoreapp2.2/DemoExtension21-csharp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/netcoreapp2.2/DemoExtension21-csharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/netcoreapp2.2/DemoExtension21-csharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/DemoExtension21-csharp.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/DemoExtension21-csharp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/DemoExtension21-csharp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/DemoExtension21-csharp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestExtension/csharp/netcoreapp2.2/.NETCoreApp,Version=v2.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestExtension/csharp/obj/TestExtension.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/Thrift.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/YaskawaExtension.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExtension/csharp/Folder.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoExtension21-csharp/Folder.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExtension/csharp/bin/Debug/netcoreapp2.2/YaskawaExtension.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TestExtension/csharp/bin/Debug/netcoreapp2.2/YaskawaExtension.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExtension/csharp/netcoreapp2.2/TestExtension.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TestExtension/csharp/netcoreapp2.2/TestExtension.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExtension/csharp/obj/TestExtension.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../TestExtension/csharp/obj/TestExtension.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExtension/csharp/obj/TestExtension.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../TestExtension/csharp/obj/TestExtension.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExtension/csharp/test-extension-2_0.yip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/SDK.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/SDK.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25vD2Matx7EWYAB72WK5W5SOviv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f2fd4f8-fde5-4430-b208-e25e8e98bf6a" name="Changes" comment="" />
+      <created>1646398458420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646398458420</updated>
+      <workItem from="1646398459491" duration="3177000" />
+      <workItem from="1646404875146" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
